@@ -1,0 +1,3 @@
+Delete .gradle folder naa diha tamahak tig monitor file changes
+
+https://github.com/ebean-orm-tools/ebean-gradle-plugin/issues/14

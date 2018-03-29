@@ -1,0 +1,3 @@
+entity-packages: com.inkman.limhospital.domain
+querybean-packages: com.inkman.limhospital.domain
+transactional-packages: none
